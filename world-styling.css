@@ -1,0 +1,138 @@
+html{
+height: 100%;
+cursor: url("https://puu.sh/AE9DW/77cad771a4.png"), auto;
+}
+body{
+background-image:url('info-world.jpeg');
+background-size:cover;
+background-position:center;
+font-family:Lato;
+color:white;
+}
+h1{
+    padding-top:10px;
+}
+h1, h3{
+color: white;
+font-weight: bold;
+}
+.text{
+    background-color: rgba(0,0,0,0.7);
+    padding-bottom:20px;
+    text-align:center; 
+    
+}
+.text-video{
+   padding:40px;
+   margin:0;
+  
+   
+}
+.nav{
+    padding-bottom:0;
+}
+.email-label{
+    color:white;
+    vertical-align: middle;
+    padding-right: 10px;
+    font-size: 30px;
+}
+.bg-black{
+    background-color:black;
+  
+}
+.navbar-customizing .navbar-brand, 
+.navbar-customizing .collapse .nav-item .nav-link  { 
+    color:white;
+    margin-right: 30px;
+    padding-bottom:0;
+  
+    
+}
+li.nav-item{
+
+    padding-bottom:0;
+}
+.navbar-customizing .navbar-brand:hover, 
+.navbar-customizing .collapse .nav-item .nav-link:hover  { 
+    color:lightblue;
+    margin-bottom: 0;
+   
+}
+
+.stat-link{
+    color:lightblue;
+    font-size:30px;
+}
+h3, h4{
+    margin-left:20px;
+    margin-right:20px;
+}
+.stat-image{
+    width:650px;
+    max-height:600px;
+
+}
+
+h1{
+font-size: 3em;}
+#content{
+text-align:center;
+padding-top: 25%;}
+.nav-item{
+color: black;
+}
+.footer-copyright{
+    background-color: black;
+}
+
+.carousel-control-prev-icon {
+   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+
+}
+   
+   .carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+   
+}
+   .carousel-indicators ol li{
+    
+    color:blue;
+   }
+   .carousel-indicators .active {
+
+    background-color: lightskyblue;
+    text-shadow: 2px 2px white;
+}
+.carousel-title{
+    padding-bottom: 20px;
+    font-style:bold;
+}
+li{
+    padding-bottom:20px;
+}
+h2{
+    padding-top:50px;
+}
+.text-video .country-names{
+    font-style:bold;
+    text-decoration:underline;
+    
+    
+}
+.dropdown-menu{
+    background-color:black;
+    
+
+}
+.dropdown-menu a{
+    color:white;
+  
+}
+.dropdown-menu a:hover{
+    color:lightblue;
+    background-color:black;
+  
+}
+
+
